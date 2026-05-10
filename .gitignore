@@ -1,1 +1,3 @@
 Data/flair_data.csv
+/.venv
+data/preprocessed_data.pkl
