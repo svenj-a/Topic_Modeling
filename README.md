@@ -4,7 +4,7 @@ This repository contains a data analysis project applying topic modeling techniq
 ## Project Description (Fictional Use Case)
 Many public concerns, especially regarding science-related policies like climate change or public healthcare, are shaped by gaps in understanding or misinformation. To better address these challenges, a municipality aims to improve science communication and public engagement strategies. Since younger citizens are often underrepresented in traditional feedback and participation channels, the municipality additionally analyzes social media posts where users ask questions and express curiosity or confusion about scientific topics. By identifying trending and recurring topics, the municipality can design targeted science and education campaigns, improve public communication on policy decisions, and proactively address knowledge gaps before they turn into dissatisfaction or resistance. In this project usergenerated content from Reddit, specifically posts from r/AskScience, are analyzed as a proxy for the questions and interests of a digitally active population. By extracting and structuring insights from unstructured text data, the municipality aims to inform targeted science communication and education campaigns that align more closely with the needs and concerns of a younger audiences.
 
-### Repository Structure
+## Repository Structure
 There are four Jupyter notebooks, one containing the preprocessing code and 3 containing a topic modeling method each.
 The repository contains the following folders:
 
