@@ -11,7 +11,7 @@ The repository contains the following items:
 ```bash
 .
 ├── notebooks (files)           # Notebooks containing analysis code
-├── data (empty folder)         # Raw data (input) and cleaned data (file too big for Github upload)
+├── data (folder)               # Raw data (input) and cleaned data (files too big for Github upload, added to gitignore)
 ├── topics (folder)             # CSV files containing the top words for each topic
 ├── viz (folder)                # Visualizations of topic space/ distribution and evaluation metrics
 ├── requirements.txt (file)     # Lists all required dependencies with the version used for development
