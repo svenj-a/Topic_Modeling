@@ -1,5 +1,3 @@
-Data/flair_data.csv
 /.venv
 data/preprocessed_data.pkl
-data/raw_data.pkl
 data/raw_data.pkl
