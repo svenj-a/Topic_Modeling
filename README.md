@@ -23,7 +23,7 @@ Run the following commands in the terminal to setup the virtual environment and 
 
 ### Create & Activate Virtual Environment (Windows)
 ```
-.venv/
+python -m venv .venv
 .venv\Scripts\activate
 ```
 ### Install Jupyter Kernel & Depedencies
